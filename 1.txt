@@ -1,2 +1,4 @@
 # learnign thougths
 # understanding th repo
+ # learnig thougths  for devops
+ 
